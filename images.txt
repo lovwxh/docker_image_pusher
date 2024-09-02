@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 adamrehn/ue4-runtime:18.04-cudagl10.2
 adamrehn/ue4-runtime:18.04-cudagl10.0-virtualgl
+adamrehn/ue4-runtime:20.04-cudagl12-x11
